@@ -4,14 +4,13 @@ The Financial Conversion System built in Python supports currency conversions fr
 
 Authors
 
-@ZarethAM
+- @ZarethAM
+
 Features
 
-Intuitive UI
-
-Major International Currencies
-
-Ease of operation
+ - Intuitive UI
+ - Major International Currencies
+ - Ease of operation
 
 License
 
