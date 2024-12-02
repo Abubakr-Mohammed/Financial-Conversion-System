@@ -11,7 +11,6 @@ CURRENCIES = {
     'CHF': 1.13
 }
 
-# Write code here
 def to_usd(code: str, amount: float) -> float:
     if code not in CURRENCIES:
         raise ValueError(f"{code} is not supported")
